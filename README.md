@@ -13,7 +13,7 @@ List of tools:
   - More on emmet: http://www.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/
   
 ## Bracket Highlighter
-  - Bracket Highlighter matches a variety of brackets such as: [], (), {}, "", '', #!xml <tag></tag>, and even custom brackets.
+  - Bracket Highlighter matches a variety of brackets such as: `[], (), {}, "", '', #!xml <tag></tag>, and even custom brackets`.
   - Customizable to highlight almost any bracket.
   - View documentation here: https://github.com/facelessuser/BracketHighlighter
 
