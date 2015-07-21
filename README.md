@@ -1,7 +1,8 @@
 # Sublime Packages and Config
+This is used as a guide for sublime beginners on how to use sublime, what packages to install and many more. If you have any more suggestions or something to add with the current documentaion i'm open to pull-requests.
 
 # First install package:
-  - Just follow the instructions needed https://packagecontrol.io/installation
+   Just follow the instructions needed https://packagecontrol.io/installation
   
 # Install the needed tools for development.
   To install a specific package, enter: `ctrl + shift + p`.
@@ -17,9 +18,6 @@ List of tools:
   - Customizable to highlight almost any bracket.
   - View documentation here: https://github.com/facelessuser/BracketHighlighter
 
-### Bracketeer
-  - Surrounds selected text with braces (or quotes - anything, really), and prevents indentation mishaps.
-  - https://github.com/colinta/SublimeBracketeer
 
 ### Git Gutter
   - A sublime text 2/3 plugin to show an icon in the gutter area indicating whether a line has been inserted, modified or deleted.
