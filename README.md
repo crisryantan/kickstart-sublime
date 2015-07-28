@@ -7,7 +7,7 @@ This is used as a guide for sublime beginners on how to use sublime, what packag
    Just follow the instructions needed https://packagecontrol.io/installation
   
 # Install the needed tools for development.
-  To install a specific package, enter: `ctrl + shift + p`.
+  To install a specific package, enter: `ctrl + shift + p` for **linux** and **windows**. `cmd + shift + p` for **mac**.
 
 List of tools:  
   
