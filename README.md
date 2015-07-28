@@ -1,6 +1,8 @@
 # Sublime Packages and Config
 This is used as a guide for sublime beginners on how to use sublime, what packages to install and many more. If you have any more suggestions or something to add with the current documentaion i'm open to pull-requests.
 
+It's best to use **Sublime Text 3** for all of the packages I written here to work.
+
 **Note:** some of the packages I got from this website http://www.hongkiat.com/blog/sublime-text-plugins/
 
 # First install package:
