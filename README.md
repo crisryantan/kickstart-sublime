@@ -61,7 +61,7 @@ List of tools:
 
 - Click `preferences` then `Settings - User`
 - Add these lines of code to file and then save
-- **note:** user must have **Material-Theme-Darker** installed
+
 ```
 {
 	"always_prompt_for_file_reload": false,
@@ -108,7 +108,6 @@ List of tools:
 	"caret_extra_width": 2,
 	"caret_style": "smooth",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": true,
 	"create_window_at_startup": true,
 	"default_encoding": "UTF-8",
@@ -217,7 +216,6 @@ List of tools:
 	"spelling_selector": "markup.raw, source string.quoted - punctuation - meta.preprocessor.c.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
 	"tab_completion": true,
 	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
