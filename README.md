@@ -120,7 +120,7 @@ List of tools:
 	"draw_centered": false,
 	"draw_indent_guides": true,
 	"draw_minimap_border": false,
-	"draw_white_space": "selection",
+	"draw_white_space": "all",
 	"enable_hexadecimal_encoding": true,
 	"enable_tab_scrolling": true,
 	"enable_telemetry": "auto",
@@ -268,5 +268,4 @@ List of tools:
 	"word_wrap": "auto",
 	"wrap_width": 0
 }
-
 ```
