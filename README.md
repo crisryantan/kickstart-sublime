@@ -56,6 +56,8 @@ List of tools:
 ### DocBlockr
   - DocBlokr lets you create documentation or annotation for your codes with ease, by parsing the functions, parameters, variables, and automatically adding some possible documentation (see the screenshot below).
 
+### VALign
+  - A plugin for Sublime Text 2 and 3 that adds a shortcut to easily vertically-align the text around the cursor. Just press ```Cmd+\``` (Mac) or ```Ctrl+\``` (Windows/Linux) and the code around you will align itself.
 
 # Add this to sublime text preferences
 
@@ -152,6 +154,13 @@ List of tools:
 	"fold_buttons": true,
 	"folder_exclude_patterns":
 	[
+		".DS_Store",
+		"Desktop.ini",
+		"*.pyc",
+		"._*",
+		"Thumbs.db",
+		".Spotlight-V100",
+		".Trashes",
 		".svn",
 		".git",
 		".hg",
@@ -222,8 +231,42 @@ List of tools:
 	"trim_trailing_white_space_on_save": false,
 	"use_simple_full_screen": false,
 	"use_tab_stops": true,
+	"va_alignment_chars":
+	[
+		{
+			"alignment": "right",
+			"char": "=",
+			"left_space": true,
+			"prefixes":
+			[
+				"+",
+				"-",
+				"&",
+				"|",
+				"<",
+				">",
+				"!",
+				"~",
+				"%",
+				"/",
+				"*",
+				"."
+			],
+			"right_space": true
+		},
+		{
+			"alignment": "right",
+			"char": ":",
+			"left_space": true,
+			"prefixes":
+			[
+			],
+			"right_space": true
+		}
+	],
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	"word_wrap": "auto",
 	"wrap_width": 0
 }
+
 ```
