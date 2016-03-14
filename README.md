@@ -123,6 +123,9 @@ List of tools:
 ### VALign
   - A plugin for Sublime Text 2 and 3 that adds a shortcut to easily vertically-align the text around the cursor. Just press ```Cmd+\``` (Mac) or ```Ctrl+\``` (Windows/Linux) and the code around you will align itself.
 
+### Install theme
+  - https://github.com/wesbos/cobalt2
+
 # Add this to sublime text preferences
 
 - Click `preferences` then `Settings - User`
