@@ -126,6 +126,9 @@ List of tools:
 ### Install theme
   - https://github.com/wesbos/cobalt2
 
+### Apply Emmet on JSX
+  - http://wesbos.com/emmet-react-jsx-sublime/
+
 # Add this to sublime text preferences
 
 - Click `preferences` then `Settings - User`
